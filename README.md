@@ -1,4 +1,4 @@
-# HematoVision-BloodCell-Classification
+# HematoVision-BloodCell-Classification Using Transfer Learning
 SmartInternz AI-ML Internship Project: Blood Cell Classification using Transfer Learning
 # 🩸 HematoVision - Blood Cell Classification using Deep Learning
 
